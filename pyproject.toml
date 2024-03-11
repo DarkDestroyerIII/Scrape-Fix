@@ -13,6 +13,7 @@ aiohttp = "^3.9.3"
 async-timeout = "^4.0.3"
 lxml = "^5.1.0"
 psutil = "^5.9.8"
+cchardet = "^2.1.7"
 
 [tool.pyright]
 # https://github.com/microsoft/pyright/blob/main/docs/configuration.md
